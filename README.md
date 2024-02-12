@@ -15,6 +15,16 @@ Supported platform: Python 3.7 64-bit on Ubuntu 18.04
   pipenv install
   ```
 
+- If you get any error then use requirement.txt
+```
+pip install -r requirements.txt
+```
+
+- To install mpi4py
+```
+conda install -c conda-forge mpi4py mpich
+```
+
 ## Run the models
 
 You'll need to run this on a machine with an Nvidia GPU.
