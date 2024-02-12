@@ -1,0 +1,10 @@
+torch
+fairscale
+fire
+sentencepiece
+transformers
+timm
+tensorboard
+blobfile
+typeguard==2.2.1
+cloudpickle
